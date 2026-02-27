@@ -1,6 +1,6 @@
 📊 Data Logger with SD Card and RTC
 
-📌 Project Overview
+📌 Project Overview:
 
 This project implements a Data Logger System that records sensor data along with accurate date and time using a Real Time Clock (RTC) module and stores the data into an SD card.
 The system ensures reliable data storage for monitoring and analysis applications.
@@ -14,6 +14,7 @@ To store data in .txt or .csv format
 To retrieve stored data for analysis
 
 🛠️ Components Used:
+
 Microcontroller ESP 32
 SD Card Module
 RTC Module DS1307
@@ -75,3 +76,4 @@ Add LCD display
 Add multiple sensors
 Add data encryption
 Web-based monitoring dashboard
+
